@@ -67,7 +67,8 @@ Each example is wrapped in a card and labeled for clarity.
 ---
 
 ## Screenshot
-![ Screenshot](Screenshot .png)
+![Screenshot](Screenshot.png)
+
 
 
 ---

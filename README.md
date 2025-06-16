@@ -44,7 +44,7 @@ Each example is wrapped in a card and labeled for clarity.
 
 1. Clone this repo:
    ```bash
-   git clone <your-repo-url>
+   git clone < https://github.com/Uchantal/Animation_app.git>
    cd <project-folder>
    ```
 2. Get dependencies:
@@ -67,9 +67,11 @@ Each example is wrapped in a card and labeled for clarity.
 ---
 
 ## Screenshot
-
+![App Screenshot](screenshot.png)
 
 
 ---
+
+
 
 Feel free to explore and modify the animations for a better grasp of how `AnimatedBuilder` enhances performance and UI dynamics.
